@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-# 💫 About Me:
+## 💫 About Me:
 👋 Hi there! I'm Nitin, a seasoned web developer passionate about crafting exceptional digital experiences.
 
 
