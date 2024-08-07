@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 
 # 💫 About Me:
-👋 Hi there! I am a seasoned web developer passionate about crafting exceptional digital experiences.
+👋 Hi there! I am full stack web developer.
 
 
 ## 🌐 Socials:
